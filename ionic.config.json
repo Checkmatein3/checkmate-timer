@@ -1,6 +1,6 @@
 {
   "name": "checkmate-timer",
-  "app_id": "",
+  "app_id": "df3a7ffa",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
